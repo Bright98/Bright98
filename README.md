@@ -9,6 +9,6 @@
 - 📫 How to reach me: haleh.shayanmanesh@gmail.com
 
 <div style="display:flex;">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bright98&layout=donut&theme=nord&hide_title=true&bg_color='00FFFFFF'" alt="bright98"  />
-<img src="https://github-readme-stats.vercel.app/api?username=bright98&theme=nord&hide_title=true&bg_color='00FFFFFF'&rank_icon=github&hide=issues,prs"  alt="bright98"  />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bright98&layout=donut&theme=nord&hide_title=true&bg_color=00000000" alt="bright98"  />
+<img src="https://github-readme-stats.vercel.app/api?username=bright98&theme=nord&hide_title=true&bg_color=00000000&rank_icon=github&hide=issues,prs"  alt="bright98"  />
 </div>
